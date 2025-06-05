@@ -1,0 +1,90 @@
+# Rust
+target/
+**/*.rs.bk
+Cargo.lock
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Logs and Runtime Files
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Application Data (we want to keep our JSON data)
+# Uncomment below if you want to ignore actual data files
+# data/*.json
+# !data/sample_data.json
+# !data/airports.json
+
+# Build and Distribution
+dist/
+build/
+out/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Editor Specific
+*.sublime-project
+*.sublime-workspace
+
+# Rust-specific
+# Documentation build
+/docs/book/
+
+# Benchmarks
+criterion/
+flamegraph.svg
+
+# Coverage
+tarpaulin-report.html
+cobertura.xml
+lcov.info
+
