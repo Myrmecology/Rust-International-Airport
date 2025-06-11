@@ -13,7 +13,7 @@ pub enum FlightStatus {
     Cancelled,
 }
 
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq, Hash)]
 pub enum SeatClass {
     Economy,
     Business,

@@ -252,7 +252,7 @@ impl InputManager {
                     break;
                 }
                 if !requirement.trim().is_empty() {
-                    passenger.add_special_requirement(requirement);
+                    passenger.add_special_requirement(requirement.clone());
                     println!("{} Added: {}", "✅".bright_green(), requirement.bright_white());
                 }
             }

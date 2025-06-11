@@ -1,6 +1,6 @@
 use std::error::Error;
 use uuid::Uuid;
-use chrono::{DateTime, Utc, Duration};
+use chrono::{DateTime, Utc, Duration, Timelike};
 use crate::modules::{
     flight::{Flight, FlightStatus, SeatClass},
     aircraft::{Aircraft, AircraftStatus},
