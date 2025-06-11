@@ -1,0 +1,170 @@
+[
+  {
+    "id": "489041af-0f3e-449b-b166-c4d8db9e57f3",
+    "registration": "N123RIA",
+    "model": "Boeing 737-800",
+    "manufacturer": "Boeing",
+    "year_manufactured": 2020,
+    "status": "Active",
+    "seat_configuration": {
+      "economy_rows": 28,
+      "economy_seats_per_row": 6,
+      "business_rows": 4,
+      "business_seats_per_row": 4,
+      "first_class_rows": 2,
+      "first_class_seats_per_row": 4
+    },
+    "total_capacity": 192,
+    "baggage_capacity_kg": 4800,
+    "max_cargo_weight_kg": 6720,
+    "performance": {
+      "max_speed_kmh": 876,
+      "cruise_speed_kmh": 828,
+      "max_altitude_m": 12500,
+      "range_km": 5665,
+      "fuel_efficiency_l_per_100km": 3.2
+    },
+    "maintenance_hours": 0.0,
+    "flight_hours": 0.0
+  },
+  {
+    "id": "6fa53cad-5b9e-4a17-b9de-aee1d155357e",
+    "registration": "N456RIA",
+    "model": "Airbus A320",
+    "manufacturer": "Airbus",
+    "year_manufactured": 2019,
+    "status": "Active",
+    "seat_configuration": {
+      "economy_rows": 25,
+      "economy_seats_per_row": 6,
+      "business_rows": 3,
+      "business_seats_per_row": 4,
+      "first_class_rows": 2,
+      "first_class_seats_per_row": 4
+    },
+    "total_capacity": 170,
+    "baggage_capacity_kg": 4250,
+    "max_cargo_weight_kg": 5950,
+    "performance": {
+      "max_speed_kmh": 871,
+      "cruise_speed_kmh": 828,
+      "max_altitude_m": 12000,
+      "range_km": 6150,
+      "fuel_efficiency_l_per_100km": 2.9
+    },
+    "maintenance_hours": 0.0,
+    "flight_hours": 0.0
+  },
+  {
+    "id": "4ac80108-b78a-4781-9a78-96628362b637",
+    "registration": "N789RIA",
+    "model": "Boeing 777-300",
+    "manufacturer": "Boeing",
+    "year_manufactured": 2021,
+    "status": "Active",
+    "seat_configuration": {
+      "economy_rows": 42,
+      "economy_seats_per_row": 9,
+      "business_rows": 8,
+      "business_seats_per_row": 6,
+      "first_class_rows": 4,
+      "first_class_seats_per_row": 4
+    },
+    "total_capacity": 442,
+    "baggage_capacity_kg": 11050,
+    "max_cargo_weight_kg": 15470,
+    "performance": {
+      "max_speed_kmh": 905,
+      "cruise_speed_kmh": 892,
+      "max_altitude_m": 13100,
+      "range_km": 11135,
+      "fuel_efficiency_l_per_100km": 4.8
+    },
+    "maintenance_hours": 0.0,
+    "flight_hours": 0.0
+  },
+  {
+    "id": "c19dd6e5-1334-4e68-8e74-1708fc9d7ebe",
+    "registration": "N101RIA",
+    "model": "Airbus A380",
+    "manufacturer": "Airbus",
+    "year_manufactured": 2018,
+    "status": "Active",
+    "seat_configuration": {
+      "economy_rows": 50,
+      "economy_seats_per_row": 10,
+      "business_rows": 12,
+      "business_seats_per_row": 6,
+      "first_class_rows": 6,
+      "first_class_seats_per_row": 4
+    },
+    "total_capacity": 596,
+    "baggage_capacity_kg": 14900,
+    "max_cargo_weight_kg": 20860,
+    "performance": {
+      "max_speed_kmh": 945,
+      "cruise_speed_kmh": 903,
+      "max_altitude_m": 13100,
+      "range_km": 15200,
+      "fuel_efficiency_l_per_100km": 6.2
+    },
+    "maintenance_hours": 0.0,
+    "flight_hours": 0.0
+  },
+  {
+    "id": "5fa4ece6-297a-49b2-b997-16a153433098",
+    "registration": "N202RIA",
+    "model": "Boeing 737-800",
+    "manufacturer": "Boeing",
+    "year_manufactured": 2022,
+    "status": "Active",
+    "seat_configuration": {
+      "economy_rows": 28,
+      "economy_seats_per_row": 6,
+      "business_rows": 4,
+      "business_seats_per_row": 4,
+      "first_class_rows": 2,
+      "first_class_seats_per_row": 4
+    },
+    "total_capacity": 192,
+    "baggage_capacity_kg": 4800,
+    "max_cargo_weight_kg": 6720,
+    "performance": {
+      "max_speed_kmh": 876,
+      "cruise_speed_kmh": 828,
+      "max_altitude_m": 12500,
+      "range_km": 5665,
+      "fuel_efficiency_l_per_100km": 3.2
+    },
+    "maintenance_hours": 0.0,
+    "flight_hours": 0.0
+  },
+  {
+    "id": "c9b287b2-59cd-4b12-b8af-2a07ec50353e",
+    "registration": "N303RIA",
+    "model": "Airbus A320",
+    "manufacturer": "Airbus",
+    "year_manufactured": 2023,
+    "status": "Active",
+    "seat_configuration": {
+      "economy_rows": 25,
+      "economy_seats_per_row": 6,
+      "business_rows": 3,
+      "business_seats_per_row": 4,
+      "first_class_rows": 2,
+      "first_class_seats_per_row": 4
+    },
+    "total_capacity": 170,
+    "baggage_capacity_kg": 4250,
+    "max_cargo_weight_kg": 5950,
+    "performance": {
+      "max_speed_kmh": 871,
+      "cruise_speed_kmh": 828,
+      "max_altitude_m": 12000,
+      "range_km": 6150,
+      "fuel_efficiency_l_per_100km": 2.9
+    },
+    "maintenance_hours": 0.0,
+    "flight_hours": 0.0
+  }
+]

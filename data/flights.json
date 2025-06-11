@@ -1,0 +1,302 @@
+[
+  {
+    "id": "e6bc37da-6d45-4a76-a4a0-9ca0fc7a0941",
+    "flight_number": "RIA101",
+    "airline": "Rust International Airways",
+    "origin": "LAX",
+    "destination": "JFK",
+    "departure_time": "2025-06-11T04:55:53.870192Z",
+    "arrival_time": "2025-06-11T12:55:53.870192Z",
+    "status": "OnTime",
+    "aircraft_id": "489041af-0f3e-449b-b166-c4d8db9e57f3",
+    "gate": "A1",
+    "seat_availability": {
+      "economy": 134,
+      "business": 48,
+      "first_class": 10
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 192,
+    "baggage_allowance": {
+      "FirstClass": 46,
+      "Economy": 23,
+      "Business": 32
+    }
+  },
+  {
+    "id": "dddf29e3-e8dd-401d-abad-b4b5103e1a28",
+    "flight_number": "RIA201",
+    "airline": "Rust International Airways",
+    "origin": "JFK",
+    "destination": "LHR",
+    "departure_time": "2025-06-11T07:55:53.870192Z",
+    "arrival_time": "2025-06-11T17:10:53.870192Z",
+    "status": {
+      "Delayed": 15
+    },
+    "aircraft_id": "6fa53cad-5b9e-4a17-b9de-aee1d155357e",
+    "gate": "A2",
+    "seat_availability": {
+      "economy": 119,
+      "business": 42,
+      "first_class": 9
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 170,
+    "baggage_allowance": {
+      "Business": 32,
+      "Economy": 23,
+      "FirstClass": 46
+    }
+  },
+  {
+    "id": "9bc92611-180e-46df-88a4-4a6e2a6b76c0",
+    "flight_number": "RIA301",
+    "airline": "Rust International Airways",
+    "origin": "LHR",
+    "destination": "CDG",
+    "departure_time": "2025-06-11T10:55:53.870192Z",
+    "arrival_time": "2025-06-11T20:55:53.870192Z",
+    "status": "Boarding",
+    "aircraft_id": "4ac80108-b78a-4781-9a78-96628362b637",
+    "gate": "B3",
+    "seat_availability": {
+      "economy": 309,
+      "business": 110,
+      "first_class": 23
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 442,
+    "baggage_allowance": {
+      "Economy": 23,
+      "FirstClass": 46,
+      "Business": 32
+    }
+  },
+  {
+    "id": "dc827ee6-c184-43f0-a086-cd9726b07dac",
+    "flight_number": "RIA401",
+    "airline": "Rust International Airways",
+    "origin": "CDG",
+    "destination": "NRT",
+    "departure_time": "2025-06-11T13:55:53.870192Z",
+    "arrival_time": "2025-06-12T01:25:53.870192Z",
+    "status": {
+      "Delayed": 30
+    },
+    "aircraft_id": "c19dd6e5-1334-4e68-8e74-1708fc9d7ebe",
+    "gate": "B4",
+    "seat_availability": {
+      "economy": 417,
+      "business": 149,
+      "first_class": 30
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 596,
+    "baggage_allowance": {
+      "FirstClass": 46,
+      "Business": 32,
+      "Economy": 23
+    }
+  },
+  {
+    "id": "aa457c66-4ef9-441f-95f5-be50433d1820",
+    "flight_number": "RIA501",
+    "airline": "Rust International Airways",
+    "origin": "NRT",
+    "destination": "DXB",
+    "departure_time": "2025-06-11T16:55:53.870192Z",
+    "arrival_time": "2025-06-12T00:55:53.870192Z",
+    "status": "OnTime",
+    "aircraft_id": "5fa4ece6-297a-49b2-b997-16a153433098",
+    "gate": "C5",
+    "seat_availability": {
+      "economy": 134,
+      "business": 48,
+      "first_class": 10
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 192,
+    "baggage_allowance": {
+      "FirstClass": 46,
+      "Economy": 23,
+      "Business": 32
+    }
+  },
+  {
+    "id": "5e7ebc5c-3691-40f4-ad99-273698837d4d",
+    "flight_number": "RIA601",
+    "airline": "Rust International Airways",
+    "origin": "DXB",
+    "destination": "LAX",
+    "departure_time": "2025-06-11T19:55:53.870192Z",
+    "arrival_time": "2025-06-12T05:10:53.870192Z",
+    "status": {
+      "Delayed": 15
+    },
+    "aircraft_id": "c9b287b2-59cd-4b12-b8af-2a07ec50353e",
+    "gate": "C6",
+    "seat_availability": {
+      "economy": 119,
+      "business": 42,
+      "first_class": 9
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 170,
+    "baggage_allowance": {
+      "Economy": 23,
+      "Business": 32,
+      "FirstClass": 46
+    }
+  },
+  {
+    "id": "8f684510-6bec-412a-99b8-bfa51b2ec067",
+    "flight_number": "RIA701",
+    "airline": "Rust International Airways",
+    "origin": "LAX",
+    "destination": "CDG",
+    "departure_time": "2025-06-11T22:55:53.870192Z",
+    "arrival_time": "2025-06-12T08:55:53.870192Z",
+    "status": "Boarding",
+    "aircraft_id": "489041af-0f3e-449b-b166-c4d8db9e57f3",
+    "gate": "D7",
+    "seat_availability": {
+      "economy": 134,
+      "business": 48,
+      "first_class": 10
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 192,
+    "baggage_allowance": {
+      "Business": 32,
+      "FirstClass": 46,
+      "Economy": 23
+    }
+  },
+  {
+    "id": "41213e37-7220-4db8-ba04-20a7fc7081a9",
+    "flight_number": "RIA801",
+    "airline": "Rust International Airways",
+    "origin": "JFK",
+    "destination": "NRT",
+    "departure_time": "2025-06-12T01:55:53.870192Z",
+    "arrival_time": "2025-06-12T13:25:53.870192Z",
+    "status": {
+      "Delayed": 30
+    },
+    "aircraft_id": "6fa53cad-5b9e-4a17-b9de-aee1d155357e",
+    "gate": "D8",
+    "seat_availability": {
+      "economy": 119,
+      "business": 42,
+      "first_class": 9
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 170,
+    "baggage_allowance": {
+      "Economy": 23,
+      "FirstClass": 46,
+      "Business": 32
+    }
+  },
+  {
+    "id": "87b3bb32-7211-438a-b800-49d690fdf4fc",
+    "flight_number": "RIA901",
+    "airline": "Rust International Airways",
+    "origin": "LHR",
+    "destination": "DXB",
+    "departure_time": "2025-06-12T04:55:53.870192Z",
+    "arrival_time": "2025-06-12T12:55:53.870192Z",
+    "status": "OnTime",
+    "aircraft_id": "4ac80108-b78a-4781-9a78-96628362b637",
+    "gate": "E9",
+    "seat_availability": {
+      "economy": 309,
+      "business": 110,
+      "first_class": 23
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 442,
+    "baggage_allowance": {
+      "FirstClass": 46,
+      "Business": 32,
+      "Economy": 23
+    }
+  },
+  {
+    "id": "ff767e67-5009-4cd6-b991-6dcf8a0e2ba3",
+    "flight_number": "RIA001",
+    "airline": "Rust International Airways",
+    "origin": "CDG",
+    "destination": "LAX",
+    "departure_time": "2025-06-12T07:55:53.870192Z",
+    "arrival_time": "2025-06-12T17:10:53.870192Z",
+    "status": {
+      "Delayed": 15
+    },
+    "aircraft_id": "c19dd6e5-1334-4e68-8e74-1708fc9d7ebe",
+    "gate": "E10",
+    "seat_availability": {
+      "economy": 417,
+      "business": 149,
+      "first_class": 30
+    },
+    "pricing": {
+      "economy": 299.99,
+      "business": 899.99,
+      "first_class": 1999.99,
+      "dynamic_multiplier": 1.0
+    },
+    "total_capacity": 596,
+    "baggage_allowance": {
+      "Economy": 23,
+      "Business": 32,
+      "FirstClass": 46
+    }
+  }
+]

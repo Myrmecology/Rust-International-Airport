@@ -1,0 +1,903 @@
+[
+  {
+    "id": "b845437f-e48b-406c-828d-51d07a80ab91",
+    "code": "LAX",
+    "icao_code": "KLAX",
+    "name": "Los Angeles International Airport",
+    "city": "Los Angeles",
+    "country": "United States",
+    "timezone": "America/Los_Angeles",
+    "coordinates": {
+      "latitude": 33.9425,
+      "longitude": -118.4081
+    },
+    "elevation_meters": 38,
+    "airport_size": "Hub",
+    "terminals": [
+      {
+        "id": "T1",
+        "name": "Terminal 1 - International",
+        "gates": [
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A11",
+          "A12",
+          "A13",
+          "A14",
+          "A15",
+          "A16",
+          "A17",
+          "A18",
+          "A19",
+          "A20",
+          "A21",
+          "A22",
+          "A23",
+          "A24",
+          "A25",
+          "A26",
+          "A27",
+          "A28",
+          "A29",
+          "A30"
+        ],
+        "amenities": [
+          "Duty Free",
+          "Lounges",
+          "Restaurants"
+        ],
+        "is_international": true
+      },
+      {
+        "id": "T2",
+        "name": "Terminal 2 - Domestic",
+        "gates": [
+          "B1",
+          "B2",
+          "B3",
+          "B4",
+          "B5",
+          "B6",
+          "B7",
+          "B8",
+          "B9",
+          "B10",
+          "B11",
+          "B12",
+          "B13",
+          "B14",
+          "B15",
+          "B16",
+          "B17",
+          "B18",
+          "B19",
+          "B20",
+          "B21",
+          "B22",
+          "B23",
+          "B24",
+          "B25"
+        ],
+        "amenities": [
+          "Fast Food",
+          "Shops",
+          "Business Center"
+        ],
+        "is_international": false
+      },
+      {
+        "id": "T3",
+        "name": "Terminal 3 - Mixed",
+        "gates": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20"
+        ],
+        "amenities": [
+          "Restaurants",
+          "Shopping"
+        ],
+        "is_international": true
+      }
+    ],
+    "runways": [
+      {
+        "id": "07L/25R",
+        "length_meters": 4000,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "07R/25L",
+        "length_meters": 3800,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "06L/24R",
+        "length_meters": 3500,
+        "width_meters": 45,
+        "surface_type": "Asphalt",
+        "is_active": true
+      }
+    ],
+    "annual_passengers": 80000000,
+    "cargo_capacity_tonnes": 100000,
+    "operating_hours": [
+      5,
+      23
+    ],
+    "services": [
+      "Car Rental",
+      "Taxi Service",
+      "Parking",
+      "Dining",
+      "Shopping",
+      "WiFi",
+      "ATM",
+      "Lost & Found"
+    ],
+    "is_international": true,
+    "customs_available": true
+  },
+  {
+    "id": "93f75eb0-feb9-480b-9fd6-d8971ab0dfd9",
+    "code": "JFK",
+    "icao_code": "KJFK",
+    "name": "John F. Kennedy International Airport",
+    "city": "New York",
+    "country": "United States",
+    "timezone": "America/New_York",
+    "coordinates": {
+      "latitude": 40.6413,
+      "longitude": -73.7781
+    },
+    "elevation_meters": 4,
+    "airport_size": "Hub",
+    "terminals": [
+      {
+        "id": "T1",
+        "name": "Terminal 1 - International",
+        "gates": [
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A11",
+          "A12",
+          "A13",
+          "A14",
+          "A15",
+          "A16",
+          "A17",
+          "A18",
+          "A19",
+          "A20",
+          "A21",
+          "A22",
+          "A23",
+          "A24",
+          "A25",
+          "A26",
+          "A27",
+          "A28",
+          "A29",
+          "A30"
+        ],
+        "amenities": [
+          "Duty Free",
+          "Lounges",
+          "Restaurants"
+        ],
+        "is_international": true
+      },
+      {
+        "id": "T2",
+        "name": "Terminal 2 - Domestic",
+        "gates": [
+          "B1",
+          "B2",
+          "B3",
+          "B4",
+          "B5",
+          "B6",
+          "B7",
+          "B8",
+          "B9",
+          "B10",
+          "B11",
+          "B12",
+          "B13",
+          "B14",
+          "B15",
+          "B16",
+          "B17",
+          "B18",
+          "B19",
+          "B20",
+          "B21",
+          "B22",
+          "B23",
+          "B24",
+          "B25"
+        ],
+        "amenities": [
+          "Fast Food",
+          "Shops",
+          "Business Center"
+        ],
+        "is_international": false
+      },
+      {
+        "id": "T3",
+        "name": "Terminal 3 - Mixed",
+        "gates": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20"
+        ],
+        "amenities": [
+          "Restaurants",
+          "Shopping"
+        ],
+        "is_international": true
+      }
+    ],
+    "runways": [
+      {
+        "id": "07L/25R",
+        "length_meters": 4000,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "07R/25L",
+        "length_meters": 3800,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "06L/24R",
+        "length_meters": 3500,
+        "width_meters": 45,
+        "surface_type": "Asphalt",
+        "is_active": true
+      }
+    ],
+    "annual_passengers": 80000000,
+    "cargo_capacity_tonnes": 100000,
+    "operating_hours": [
+      5,
+      23
+    ],
+    "services": [
+      "Car Rental",
+      "Taxi Service",
+      "Parking",
+      "Dining",
+      "Shopping",
+      "WiFi",
+      "ATM",
+      "Lost & Found"
+    ],
+    "is_international": true,
+    "customs_available": true
+  },
+  {
+    "id": "a2d29838-79d7-4698-afc1-939cb86dca3a",
+    "code": "LHR",
+    "icao_code": "EGLL",
+    "name": "Heathrow Airport",
+    "city": "London",
+    "country": "United Kingdom",
+    "timezone": "Europe/London",
+    "coordinates": {
+      "latitude": 51.47,
+      "longitude": -0.4543
+    },
+    "elevation_meters": 25,
+    "airport_size": "Hub",
+    "terminals": [
+      {
+        "id": "T1",
+        "name": "Terminal 1 - International",
+        "gates": [
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A11",
+          "A12",
+          "A13",
+          "A14",
+          "A15",
+          "A16",
+          "A17",
+          "A18",
+          "A19",
+          "A20",
+          "A21",
+          "A22",
+          "A23",
+          "A24",
+          "A25",
+          "A26",
+          "A27",
+          "A28",
+          "A29",
+          "A30"
+        ],
+        "amenities": [
+          "Duty Free",
+          "Lounges",
+          "Restaurants"
+        ],
+        "is_international": true
+      },
+      {
+        "id": "T2",
+        "name": "Terminal 2 - Domestic",
+        "gates": [
+          "B1",
+          "B2",
+          "B3",
+          "B4",
+          "B5",
+          "B6",
+          "B7",
+          "B8",
+          "B9",
+          "B10",
+          "B11",
+          "B12",
+          "B13",
+          "B14",
+          "B15",
+          "B16",
+          "B17",
+          "B18",
+          "B19",
+          "B20",
+          "B21",
+          "B22",
+          "B23",
+          "B24",
+          "B25"
+        ],
+        "amenities": [
+          "Fast Food",
+          "Shops",
+          "Business Center"
+        ],
+        "is_international": false
+      },
+      {
+        "id": "T3",
+        "name": "Terminal 3 - Mixed",
+        "gates": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20"
+        ],
+        "amenities": [
+          "Restaurants",
+          "Shopping"
+        ],
+        "is_international": true
+      }
+    ],
+    "runways": [
+      {
+        "id": "07L/25R",
+        "length_meters": 4000,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "07R/25L",
+        "length_meters": 3800,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "06L/24R",
+        "length_meters": 3500,
+        "width_meters": 45,
+        "surface_type": "Asphalt",
+        "is_active": true
+      }
+    ],
+    "annual_passengers": 80000000,
+    "cargo_capacity_tonnes": 100000,
+    "operating_hours": [
+      5,
+      23
+    ],
+    "services": [
+      "Car Rental",
+      "Taxi Service",
+      "Parking",
+      "Dining",
+      "Shopping",
+      "WiFi",
+      "ATM",
+      "Lost & Found"
+    ],
+    "is_international": true,
+    "customs_available": true
+  },
+  {
+    "id": "1d62c802-a7bc-45b7-b7a7-ddfc6e5e052d",
+    "code": "CDG",
+    "icao_code": "LFPG",
+    "name": "Charles de Gaulle Airport",
+    "city": "Paris",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "coordinates": {
+      "latitude": 49.0097,
+      "longitude": 2.5479
+    },
+    "elevation_meters": 119,
+    "airport_size": "Hub",
+    "terminals": [
+      {
+        "id": "T1",
+        "name": "Terminal 1 - International",
+        "gates": [
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A11",
+          "A12",
+          "A13",
+          "A14",
+          "A15",
+          "A16",
+          "A17",
+          "A18",
+          "A19",
+          "A20",
+          "A21",
+          "A22",
+          "A23",
+          "A24",
+          "A25",
+          "A26",
+          "A27",
+          "A28",
+          "A29",
+          "A30"
+        ],
+        "amenities": [
+          "Duty Free",
+          "Lounges",
+          "Restaurants"
+        ],
+        "is_international": true
+      },
+      {
+        "id": "T2",
+        "name": "Terminal 2 - Domestic",
+        "gates": [
+          "B1",
+          "B2",
+          "B3",
+          "B4",
+          "B5",
+          "B6",
+          "B7",
+          "B8",
+          "B9",
+          "B10",
+          "B11",
+          "B12",
+          "B13",
+          "B14",
+          "B15",
+          "B16",
+          "B17",
+          "B18",
+          "B19",
+          "B20",
+          "B21",
+          "B22",
+          "B23",
+          "B24",
+          "B25"
+        ],
+        "amenities": [
+          "Fast Food",
+          "Shops",
+          "Business Center"
+        ],
+        "is_international": false
+      },
+      {
+        "id": "T3",
+        "name": "Terminal 3 - Mixed",
+        "gates": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20"
+        ],
+        "amenities": [
+          "Restaurants",
+          "Shopping"
+        ],
+        "is_international": true
+      }
+    ],
+    "runways": [
+      {
+        "id": "07L/25R",
+        "length_meters": 4000,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "07R/25L",
+        "length_meters": 3800,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "06L/24R",
+        "length_meters": 3500,
+        "width_meters": 45,
+        "surface_type": "Asphalt",
+        "is_active": true
+      }
+    ],
+    "annual_passengers": 80000000,
+    "cargo_capacity_tonnes": 100000,
+    "operating_hours": [
+      5,
+      23
+    ],
+    "services": [
+      "Car Rental",
+      "Taxi Service",
+      "Parking",
+      "Dining",
+      "Shopping",
+      "WiFi",
+      "ATM",
+      "Lost & Found"
+    ],
+    "is_international": true,
+    "customs_available": true
+  },
+  {
+    "id": "e9c48b3d-fee3-4db0-baad-740e65583990",
+    "code": "NRT",
+    "icao_code": "RJAA",
+    "name": "Narita International Airport",
+    "city": "Tokyo",
+    "country": "Japan",
+    "timezone": "Asia/Tokyo",
+    "coordinates": {
+      "latitude": 35.7653,
+      "longitude": 140.3856
+    },
+    "elevation_meters": 43,
+    "airport_size": "Small",
+    "terminals": [
+      {
+        "id": "T1",
+        "name": "Terminal",
+        "gates": [
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6"
+        ],
+        "amenities": [
+          "Café",
+          "Gift Shop"
+        ],
+        "is_international": false
+      }
+    ],
+    "runways": [
+      {
+        "id": "18/36",
+        "length_meters": 2000,
+        "width_meters": 30,
+        "surface_type": "Asphalt",
+        "is_active": true
+      }
+    ],
+    "annual_passengers": 500000,
+    "cargo_capacity_tonnes": 100000,
+    "operating_hours": [
+      5,
+      23
+    ],
+    "services": [
+      "Car Rental",
+      "Taxi Service",
+      "Parking",
+      "Dining",
+      "Shopping",
+      "WiFi",
+      "ATM",
+      "Lost & Found"
+    ],
+    "is_international": true,
+    "customs_available": true
+  },
+  {
+    "id": "88919a18-c999-405b-8b78-e6d18197e191",
+    "code": "DXB",
+    "icao_code": "OMDB",
+    "name": "Dubai International Airport",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "timezone": "Asia/Dubai",
+    "coordinates": {
+      "latitude": 25.2532,
+      "longitude": 55.3657
+    },
+    "elevation_meters": 20,
+    "airport_size": "Hub",
+    "terminals": [
+      {
+        "id": "T1",
+        "name": "Terminal 1 - International",
+        "gates": [
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "A5",
+          "A6",
+          "A7",
+          "A8",
+          "A9",
+          "A10",
+          "A11",
+          "A12",
+          "A13",
+          "A14",
+          "A15",
+          "A16",
+          "A17",
+          "A18",
+          "A19",
+          "A20",
+          "A21",
+          "A22",
+          "A23",
+          "A24",
+          "A25",
+          "A26",
+          "A27",
+          "A28",
+          "A29",
+          "A30"
+        ],
+        "amenities": [
+          "Duty Free",
+          "Lounges",
+          "Restaurants"
+        ],
+        "is_international": true
+      },
+      {
+        "id": "T2",
+        "name": "Terminal 2 - Domestic",
+        "gates": [
+          "B1",
+          "B2",
+          "B3",
+          "B4",
+          "B5",
+          "B6",
+          "B7",
+          "B8",
+          "B9",
+          "B10",
+          "B11",
+          "B12",
+          "B13",
+          "B14",
+          "B15",
+          "B16",
+          "B17",
+          "B18",
+          "B19",
+          "B20",
+          "B21",
+          "B22",
+          "B23",
+          "B24",
+          "B25"
+        ],
+        "amenities": [
+          "Fast Food",
+          "Shops",
+          "Business Center"
+        ],
+        "is_international": false
+      },
+      {
+        "id": "T3",
+        "name": "Terminal 3 - Mixed",
+        "gates": [
+          "C1",
+          "C2",
+          "C3",
+          "C4",
+          "C5",
+          "C6",
+          "C7",
+          "C8",
+          "C9",
+          "C10",
+          "C11",
+          "C12",
+          "C13",
+          "C14",
+          "C15",
+          "C16",
+          "C17",
+          "C18",
+          "C19",
+          "C20"
+        ],
+        "amenities": [
+          "Restaurants",
+          "Shopping"
+        ],
+        "is_international": true
+      }
+    ],
+    "runways": [
+      {
+        "id": "07L/25R",
+        "length_meters": 4000,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "07R/25L",
+        "length_meters": 3800,
+        "width_meters": 60,
+        "surface_type": "Concrete",
+        "is_active": true
+      },
+      {
+        "id": "06L/24R",
+        "length_meters": 3500,
+        "width_meters": 45,
+        "surface_type": "Asphalt",
+        "is_active": true
+      }
+    ],
+    "annual_passengers": 80000000,
+    "cargo_capacity_tonnes": 100000,
+    "operating_hours": [
+      5,
+      23
+    ],
+    "services": [
+      "Car Rental",
+      "Taxi Service",
+      "Parking",
+      "Dining",
+      "Shopping",
+      "WiFi",
+      "ATM",
+      "Lost & Found"
+    ],
+    "is_international": true,
+    "customs_available": true
+  }
+]
