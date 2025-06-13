@@ -1,6 +1,6 @@
 [
   {
-    "id": "489041af-0f3e-449b-b166-c4d8db9e57f3",
+    "id": "53e11f86-a073-46b0-9cde-76a465e09d5e",
     "registration": "N123RIA",
     "model": "Boeing 737-800",
     "manufacturer": "Boeing",
@@ -28,7 +28,7 @@
     "flight_hours": 0.0
   },
   {
-    "id": "6fa53cad-5b9e-4a17-b9de-aee1d155357e",
+    "id": "d924adc7-3456-4850-b5ce-81de35a30062",
     "registration": "N456RIA",
     "model": "Airbus A320",
     "manufacturer": "Airbus",
@@ -56,7 +56,7 @@
     "flight_hours": 0.0
   },
   {
-    "id": "4ac80108-b78a-4781-9a78-96628362b637",
+    "id": "2bd07f2e-bd1b-44e0-9d0e-13a799c7f830",
     "registration": "N789RIA",
     "model": "Boeing 777-300",
     "manufacturer": "Boeing",
@@ -84,7 +84,7 @@
     "flight_hours": 0.0
   },
   {
-    "id": "c19dd6e5-1334-4e68-8e74-1708fc9d7ebe",
+    "id": "1ed28452-4fbd-460c-9b3e-ed4fa1d2b57b",
     "registration": "N101RIA",
     "model": "Airbus A380",
     "manufacturer": "Airbus",
@@ -112,7 +112,7 @@
     "flight_hours": 0.0
   },
   {
-    "id": "5fa4ece6-297a-49b2-b997-16a153433098",
+    "id": "6e0d3f16-0755-454d-b781-6b9ecbbe1f81",
     "registration": "N202RIA",
     "model": "Boeing 737-800",
     "manufacturer": "Boeing",
@@ -140,7 +140,7 @@
     "flight_hours": 0.0
   },
   {
-    "id": "c9b287b2-59cd-4b12-b8af-2a07ec50353e",
+    "id": "7c3aee2d-b356-45ee-a372-a64ad21e71a2",
     "registration": "N303RIA",
     "model": "Airbus A320",
     "manufacturer": "Airbus",

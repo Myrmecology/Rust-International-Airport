@@ -80,6 +80,27 @@ On first launch, the system will automatically:
 
 ## 🧪 Testing Guide
 
+## ⏰ Real-Time Flight Expiration
+
+### Flight Lifecycle Simulation
+
+The system includes **realistic flight expiration** - just like real airlines:
+
+- **Sample flights** are created with departure times 2+ hours in the future
+- **Flights expire** when their departure time passes (can't book flights that already "departed")
+- **Real-time logic** prevents booking flights in the past
+
+### Refreshing Expired Flights
+
+If you see "No flights available for booking", your sample flights have expired:
+
+```bash
+# Delete expired flight data
+rm -rf data
+
+# Restart system - creates fresh flights with future departure times
+cargo run
+
 ### Basic System Test
 
 ```bash
@@ -94,6 +115,17 @@ cargo test
 
 # Generate documentation
 cargo doc --open
+
+This creates NEW flights starting from the current time!
+Why This Happens
+This demonstrates the system's production-ready realism:
+
+✅ Time-based validation - No booking expired flights
+✅ Real airline behavior - Flights have actual schedules
+✅ Data integrity - Prevents impossible bookings
+✅ Live simulation - System evolves over time
+
+This is a feature, not a bug! It shows your airport system behaves like real airline software.
 ```
 
 ### Feature Testing Workflow
@@ -400,4 +432,4 @@ cargo run
 # All data saved automatically
 ```
 
-Perfect for demonstrating to employers, friends, or anyone interested in seeing what modern Rust development looks like!
+Happy coding 

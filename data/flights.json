@@ -1,14 +1,14 @@
 [
   {
-    "id": "e6bc37da-6d45-4a76-a4a0-9ca0fc7a0941",
+    "id": "f5243db5-14d8-4c3a-aff9-06a76b60aa82",
     "flight_number": "RIA101",
     "airline": "Rust International Airways",
     "origin": "LAX",
     "destination": "JFK",
-    "departure_time": "2025-06-11T04:55:53.870192Z",
-    "arrival_time": "2025-06-11T12:55:53.870192Z",
+    "departure_time": "2025-06-13T02:54:31.941897Z",
+    "arrival_time": "2025-06-13T10:54:31.941897Z",
     "status": "OnTime",
-    "aircraft_id": "489041af-0f3e-449b-b166-c4d8db9e57f3",
+    "aircraft_id": "53e11f86-a073-46b0-9cde-76a465e09d5e",
     "gate": "A1",
     "seat_availability": {
       "economy": 134,
@@ -24,22 +24,22 @@
     "total_capacity": 192,
     "baggage_allowance": {
       "FirstClass": 46,
-      "Economy": 23,
-      "Business": 32
+      "Business": 32,
+      "Economy": 23
     }
   },
   {
-    "id": "dddf29e3-e8dd-401d-abad-b4b5103e1a28",
+    "id": "80e90a6a-33a9-4d13-9022-40dd4a491d2c",
     "flight_number": "RIA201",
     "airline": "Rust International Airways",
     "origin": "JFK",
     "destination": "LHR",
-    "departure_time": "2025-06-11T07:55:53.870192Z",
-    "arrival_time": "2025-06-11T17:10:53.870192Z",
+    "departure_time": "2025-06-13T05:54:31.941897Z",
+    "arrival_time": "2025-06-13T15:09:31.941897Z",
     "status": {
       "Delayed": 15
     },
-    "aircraft_id": "6fa53cad-5b9e-4a17-b9de-aee1d155357e",
+    "aircraft_id": "d924adc7-3456-4850-b5ce-81de35a30062",
     "gate": "A2",
     "seat_availability": {
       "economy": 119,
@@ -54,21 +54,21 @@
     },
     "total_capacity": 170,
     "baggage_allowance": {
-      "Business": 32,
       "Economy": 23,
-      "FirstClass": 46
+      "FirstClass": 46,
+      "Business": 32
     }
   },
   {
-    "id": "9bc92611-180e-46df-88a4-4a6e2a6b76c0",
+    "id": "3e5cc064-eae7-4c36-8606-d242f020382e",
     "flight_number": "RIA301",
     "airline": "Rust International Airways",
     "origin": "LHR",
     "destination": "CDG",
-    "departure_time": "2025-06-11T10:55:53.870192Z",
-    "arrival_time": "2025-06-11T20:55:53.870192Z",
+    "departure_time": "2025-06-13T08:54:31.941897Z",
+    "arrival_time": "2025-06-13T18:54:31.941897Z",
     "status": "Boarding",
-    "aircraft_id": "4ac80108-b78a-4781-9a78-96628362b637",
+    "aircraft_id": "2bd07f2e-bd1b-44e0-9d0e-13a799c7f830",
     "gate": "B3",
     "seat_availability": {
       "economy": 309,
@@ -89,17 +89,17 @@
     }
   },
   {
-    "id": "dc827ee6-c184-43f0-a086-cd9726b07dac",
+    "id": "82d85299-4140-4264-b051-8b24c87ebee4",
     "flight_number": "RIA401",
     "airline": "Rust International Airways",
     "origin": "CDG",
     "destination": "NRT",
-    "departure_time": "2025-06-11T13:55:53.870192Z",
-    "arrival_time": "2025-06-12T01:25:53.870192Z",
+    "departure_time": "2025-06-13T11:54:31.941897Z",
+    "arrival_time": "2025-06-13T23:24:31.941897Z",
     "status": {
       "Delayed": 30
     },
-    "aircraft_id": "c19dd6e5-1334-4e68-8e74-1708fc9d7ebe",
+    "aircraft_id": "1ed28452-4fbd-460c-9b3e-ed4fa1d2b57b",
     "gate": "B4",
     "seat_availability": {
       "economy": 417,
@@ -114,21 +114,21 @@
     },
     "total_capacity": 596,
     "baggage_allowance": {
-      "FirstClass": 46,
+      "Economy": 23,
       "Business": 32,
-      "Economy": 23
+      "FirstClass": 46
     }
   },
   {
-    "id": "aa457c66-4ef9-441f-95f5-be50433d1820",
+    "id": "b1d89f75-6cc7-45f7-9167-eb06328bc6bb",
     "flight_number": "RIA501",
     "airline": "Rust International Airways",
     "origin": "NRT",
     "destination": "DXB",
-    "departure_time": "2025-06-11T16:55:53.870192Z",
-    "arrival_time": "2025-06-12T00:55:53.870192Z",
+    "departure_time": "2025-06-13T14:54:31.941897Z",
+    "arrival_time": "2025-06-13T22:54:31.941897Z",
     "status": "OnTime",
-    "aircraft_id": "5fa4ece6-297a-49b2-b997-16a153433098",
+    "aircraft_id": "6e0d3f16-0755-454d-b781-6b9ecbbe1f81",
     "gate": "C5",
     "seat_availability": {
       "economy": 134,
@@ -143,23 +143,23 @@
     },
     "total_capacity": 192,
     "baggage_allowance": {
+      "Business": 32,
       "FirstClass": 46,
-      "Economy": 23,
-      "Business": 32
+      "Economy": 23
     }
   },
   {
-    "id": "5e7ebc5c-3691-40f4-ad99-273698837d4d",
+    "id": "9ff0aaa9-9c69-4185-bc68-f2bf847955ce",
     "flight_number": "RIA601",
     "airline": "Rust International Airways",
     "origin": "DXB",
     "destination": "LAX",
-    "departure_time": "2025-06-11T19:55:53.870192Z",
-    "arrival_time": "2025-06-12T05:10:53.870192Z",
+    "departure_time": "2025-06-13T17:54:31.941897Z",
+    "arrival_time": "2025-06-14T03:09:31.941897Z",
     "status": {
       "Delayed": 15
     },
-    "aircraft_id": "c9b287b2-59cd-4b12-b8af-2a07ec50353e",
+    "aircraft_id": "7c3aee2d-b356-45ee-a372-a64ad21e71a2",
     "gate": "C6",
     "seat_availability": {
       "economy": 119,
@@ -174,21 +174,21 @@
     },
     "total_capacity": 170,
     "baggage_allowance": {
-      "Economy": 23,
+      "FirstClass": 46,
       "Business": 32,
-      "FirstClass": 46
+      "Economy": 23
     }
   },
   {
-    "id": "8f684510-6bec-412a-99b8-bfa51b2ec067",
+    "id": "10211fc4-6ded-4702-9a1a-87f3aa96c842",
     "flight_number": "RIA701",
     "airline": "Rust International Airways",
     "origin": "LAX",
     "destination": "CDG",
-    "departure_time": "2025-06-11T22:55:53.870192Z",
-    "arrival_time": "2025-06-12T08:55:53.870192Z",
+    "departure_time": "2025-06-13T20:54:31.941897Z",
+    "arrival_time": "2025-06-14T06:54:31.941897Z",
     "status": "Boarding",
-    "aircraft_id": "489041af-0f3e-449b-b166-c4d8db9e57f3",
+    "aircraft_id": "53e11f86-a073-46b0-9cde-76a465e09d5e",
     "gate": "D7",
     "seat_availability": {
       "economy": 134,
@@ -203,23 +203,23 @@
     },
     "total_capacity": 192,
     "baggage_allowance": {
-      "Business": 32,
+      "Economy": 23,
       "FirstClass": 46,
-      "Economy": 23
+      "Business": 32
     }
   },
   {
-    "id": "41213e37-7220-4db8-ba04-20a7fc7081a9",
+    "id": "80b9aa8e-74f0-4844-8b05-64def7b6935e",
     "flight_number": "RIA801",
     "airline": "Rust International Airways",
     "origin": "JFK",
     "destination": "NRT",
-    "departure_time": "2025-06-12T01:55:53.870192Z",
-    "arrival_time": "2025-06-12T13:25:53.870192Z",
+    "departure_time": "2025-06-13T23:54:31.941897Z",
+    "arrival_time": "2025-06-14T11:24:31.941897Z",
     "status": {
       "Delayed": 30
     },
-    "aircraft_id": "6fa53cad-5b9e-4a17-b9de-aee1d155357e",
+    "aircraft_id": "d924adc7-3456-4850-b5ce-81de35a30062",
     "gate": "D8",
     "seat_availability": {
       "economy": 119,
@@ -235,20 +235,20 @@
     "total_capacity": 170,
     "baggage_allowance": {
       "Economy": 23,
-      "FirstClass": 46,
-      "Business": 32
+      "Business": 32,
+      "FirstClass": 46
     }
   },
   {
-    "id": "87b3bb32-7211-438a-b800-49d690fdf4fc",
+    "id": "0beabecb-b3bd-4bad-87e2-09933a624357",
     "flight_number": "RIA901",
     "airline": "Rust International Airways",
     "origin": "LHR",
     "destination": "DXB",
-    "departure_time": "2025-06-12T04:55:53.870192Z",
-    "arrival_time": "2025-06-12T12:55:53.870192Z",
+    "departure_time": "2025-06-14T02:54:31.941897Z",
+    "arrival_time": "2025-06-14T10:54:31.941897Z",
     "status": "OnTime",
-    "aircraft_id": "4ac80108-b78a-4781-9a78-96628362b637",
+    "aircraft_id": "2bd07f2e-bd1b-44e0-9d0e-13a799c7f830",
     "gate": "E9",
     "seat_availability": {
       "economy": 309,
@@ -263,23 +263,23 @@
     },
     "total_capacity": 442,
     "baggage_allowance": {
-      "FirstClass": 46,
       "Business": 32,
+      "FirstClass": 46,
       "Economy": 23
     }
   },
   {
-    "id": "ff767e67-5009-4cd6-b991-6dcf8a0e2ba3",
+    "id": "fb7fe141-d3c9-4985-a180-86ed9e7842f1",
     "flight_number": "RIA001",
     "airline": "Rust International Airways",
     "origin": "CDG",
     "destination": "LAX",
-    "departure_time": "2025-06-12T07:55:53.870192Z",
-    "arrival_time": "2025-06-12T17:10:53.870192Z",
+    "departure_time": "2025-06-14T05:54:31.941897Z",
+    "arrival_time": "2025-06-14T15:09:31.941897Z",
     "status": {
       "Delayed": 15
     },
-    "aircraft_id": "c19dd6e5-1334-4e68-8e74-1708fc9d7ebe",
+    "aircraft_id": "1ed28452-4fbd-460c-9b3e-ed4fa1d2b57b",
     "gate": "E10",
     "seat_availability": {
       "economy": 417,
@@ -294,9 +294,9 @@
     },
     "total_capacity": 596,
     "baggage_allowance": {
-      "Economy": 23,
       "Business": 32,
-      "FirstClass": 46
+      "FirstClass": 46,
+      "Economy": 23
     }
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": "b845437f-e48b-406c-828d-51d07a80ab91",
+    "id": "f94cbbc2-5fec-4f70-8da6-4bbab167502d",
     "code": "LAX",
     "icao_code": "KLAX",
     "name": "Los Angeles International Airport",
@@ -168,7 +168,7 @@
     "customs_available": true
   },
   {
-    "id": "93f75eb0-feb9-480b-9fd6-d8971ab0dfd9",
+    "id": "ea06e605-d312-4460-a8cb-6118ad1f363e",
     "code": "JFK",
     "icao_code": "KJFK",
     "name": "John F. Kennedy International Airport",
@@ -336,7 +336,7 @@
     "customs_available": true
   },
   {
-    "id": "a2d29838-79d7-4698-afc1-939cb86dca3a",
+    "id": "87a8aeb4-c4a0-4e23-a2e7-6ee27d9ad967",
     "code": "LHR",
     "icao_code": "EGLL",
     "name": "Heathrow Airport",
@@ -504,7 +504,7 @@
     "customs_available": true
   },
   {
-    "id": "1d62c802-a7bc-45b7-b7a7-ddfc6e5e052d",
+    "id": "5c07d03c-9b01-4714-a48b-d73bb4512bd1",
     "code": "CDG",
     "icao_code": "LFPG",
     "name": "Charles de Gaulle Airport",
@@ -672,7 +672,7 @@
     "customs_available": true
   },
   {
-    "id": "e9c48b3d-fee3-4db0-baad-740e65583990",
+    "id": "465e1ea2-148b-47bc-81ca-c5a449232512",
     "code": "NRT",
     "icao_code": "RJAA",
     "name": "Narita International Airport",
@@ -733,7 +733,7 @@
     "customs_available": true
   },
   {
-    "id": "88919a18-c999-405b-8b78-e6d18197e191",
+    "id": "25e3cee4-88db-47bc-9403-89227543f6cf",
     "code": "DXB",
     "icao_code": "OMDB",
     "name": "Dubai International Airport",
