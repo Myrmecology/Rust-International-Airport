@@ -5,7 +5,7 @@
     "model": "Boeing 737-800",
     "manufacturer": "Boeing",
     "year_manufactured": 2020,
-    "status": "InFlight",
+    "status": "Active",
     "seat_configuration": {
       "economy_rows": 28,
       "economy_seats_per_row": 6,
@@ -61,7 +61,7 @@
     "model": "Boeing 777-300",
     "manufacturer": "Boeing",
     "year_manufactured": 2021,
-    "status": "InFlight",
+    "status": "Active",
     "seat_configuration": {
       "economy_rows": 42,
       "economy_seats_per_row": 9,

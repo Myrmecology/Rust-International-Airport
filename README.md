@@ -1,5 +1,7 @@
 # 🛫 Rust International Airport
 
+My YouTube video demo of this project: https://www.youtube.com/watch?v=9kgP_8tyloI&t=38s
+
 **A comprehensive airport management system built entirely in Rust**
 
 **Rust 1.70+ | MIT License | Production Ready**

@@ -6,14 +6,12 @@
     "origin": "LAX",
     "destination": "JFK",
     "departure_time": "2025-07-02T06:31:35.483107200Z",
-    "arrival_time": "2025-07-02T14:33:35.483107200Z",
-    "status": {
-      "Delayed": 2
-    },
+    "arrival_time": "2025-07-02T14:31:35.483107200Z",
+    "status": "OnTime",
     "aircraft_id": "5869aad7-1754-4aa3-b854-c2d74265de5a",
     "gate": "A1",
     "seat_availability": {
-      "economy": 133,
+      "economy": 134,
       "business": 48,
       "first_class": 10
     },
@@ -21,13 +19,13 @@
       "economy": 299.99,
       "business": 899.99,
       "first_class": 1999.99,
-      "dynamic_multiplier": 0.8
+      "dynamic_multiplier": 1.0
     },
     "total_capacity": 192,
     "baggage_allowance": {
       "FirstClass": 46,
-      "Business": 32,
-      "Economy": 23
+      "Economy": 23,
+      "Business": 32
     }
   },
   {
@@ -56,9 +54,9 @@
     },
     "total_capacity": 170,
     "baggage_allowance": {
+      "Business": 32,
       "Economy": 23,
-      "FirstClass": 46,
-      "Business": 32
+      "FirstClass": 46
     }
   },
   {
@@ -85,8 +83,8 @@
     },
     "total_capacity": 442,
     "baggage_allowance": {
-      "FirstClass": 46,
       "Business": 32,
+      "FirstClass": 46,
       "Economy": 23
     }
   },
@@ -145,9 +143,9 @@
     },
     "total_capacity": 192,
     "baggage_allowance": {
+      "Economy": 23,
       "FirstClass": 46,
-      "Business": 32,
-      "Economy": 23
+      "Business": 32
     }
   },
   {
@@ -176,9 +174,9 @@
     },
     "total_capacity": 170,
     "baggage_allowance": {
+      "FirstClass": 46,
       "Economy": 23,
-      "Business": 32,
-      "FirstClass": 46
+      "Business": 32
     }
   },
   {
@@ -205,9 +203,9 @@
     },
     "total_capacity": 192,
     "baggage_allowance": {
-      "Business": 32,
       "FirstClass": 46,
-      "Economy": 23
+      "Economy": 23,
+      "Business": 32
     }
   },
   {
@@ -236,9 +234,9 @@
     },
     "total_capacity": 170,
     "baggage_allowance": {
+      "Economy": 23,
       "FirstClass": 46,
-      "Business": 32,
-      "Economy": 23
+      "Business": 32
     }
   },
   {
@@ -265,9 +263,9 @@
     },
     "total_capacity": 442,
     "baggage_allowance": {
-      "FirstClass": 46,
       "Economy": 23,
-      "Business": 32
+      "Business": 32,
+      "FirstClass": 46
     }
   },
   {
@@ -296,9 +294,9 @@
     },
     "total_capacity": 596,
     "baggage_allowance": {
-      "Economy": 23,
       "Business": 32,
-      "FirstClass": 46
+      "FirstClass": 46,
+      "Economy": 23
     }
   }
 ]

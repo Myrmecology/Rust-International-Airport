@@ -1,0 +1,35 @@
+[
+  {
+    "id": "98870614-f204-437f-a46f-b948eccaa78d",
+    "ticket_number": "RIA644371",
+    "flight_id": "f0565e09-368c-408d-89e2-42a1ebf1594c",
+    "passenger": {
+      "id": "2d78d578-4220-4888-95c3-d5cc51d4fa62",
+      "first_name": "Justin",
+      "last_name": "Cool",
+      "email": "code@email.dev",
+      "phone": "123-456-7890",
+      "passport_number": "H73498AsW",
+      "date_of_birth": "1881-02-13",
+      "passenger_type": "Adult",
+      "special_requirements": [
+        "Vegetarian meal"
+      ]
+    },
+    "seat_assignment": null,
+    "seat_class": "Economy",
+    "booking_date": "2025-07-02T04:34:41.089942700Z",
+    "status": "Confirmed",
+    "payment": {
+      "total_amount": 350.98830000000004,
+      "currency": "USD",
+      "payment_method": "Credit Card",
+      "transaction_id": "6e95514f-54e0-4eea-838a-46d0194d0d20",
+      "payment_date": "2025-07-02T04:34:41.089941900Z"
+    },
+    "baggage_count": 1,
+    "special_services": [],
+    "check_in_time": null,
+    "boarding_time": null
+  }
+]
